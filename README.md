@@ -1,2 +1,2 @@
-# instagram-clone
-Instagram clone task2 - Bootstrap
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
